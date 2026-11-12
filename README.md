@@ -1,1 +1,1 @@
-Fast use golink.iliziroff.org
+Fast use https://golink.iliziroff.org
